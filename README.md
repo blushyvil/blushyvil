@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**blushyvil/blushyvil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## d8b       d8b                   d8b                           d8, d8b 
+## ?88       88P                   ?88                          `8P  88P 
+##  88b     d88                     88b                             d88  
+##  888888b 888  ?88   d8P .d888b,  888888b ?88   d8P ?88   d8P  88b888  
+##  88P `?8b?88  d88   88  ?8b,     88P `?8bd88   88  d88  d8P'  88P?88  
+## d88,  d88 88b ?8(  d88    `?8b  d88   88P?8(  d88  ?8b ,88'  d88  88b 
+## d88'`?88P'  88b`?88P'?8b`?888P' d88'   88b`?88P'?8b `?888P'  d88'   88b
+##                                                 )88                   
+##                                                ,d8P                   
+##                                             `?888P'                   
