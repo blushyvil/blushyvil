@@ -3,6 +3,6 @@
 # welcome to blushyvil's page 🍭
 doing for fun shits and i guess i got into a rabbit hole
 <br>
-currently playing. . . SHAKIN' - aespa
+currently playing. . . **SHAKIN' - aespa**
 
 </div>
