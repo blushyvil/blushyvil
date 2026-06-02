@@ -1,14 +1,12 @@
 <div align="center">
 
-# welcome to blushyvil's page 🍭
+# welcome to blushyvil's page 🍭 <br>
+<br>
+꒰ა ⠀<img src="https://img.shields.io/badge/-Arch-1793D1?logo=archlinux&logoColor=white" /><img src="https://img.shields.io/badge/Nodejs-339933?logo=nodedotjs&logoColor=white" /><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />⠀ ໒꒱
+<br>
+
+<br>i'm just a guy trying to understand what 'code' is 😵‍💫<br>
 doing for fun shits and i guess i got into a rabbit hole<br>
-currently playing. . . **SHAKIN' 🍋 - aespa** <br>
-
-<img src="https://img.shields.io/badge/-Arch-1793D1?logo=archlinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nodejs-339933?logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-
----
+˙ . ꒷ 🍋 . currently playing. . . **SHAKIN' - aespa** ‧⠀₊˚ ⋅<br>
 
 </div>
